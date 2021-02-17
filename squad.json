@@ -148,5 +148,102 @@
   "allyCode": "681434522",
   "userIcon": ":skull_crossbones:",
   "tagIdOnDrop": ""
+  },
+  {
+  "name": "Dark",
+  "allyCode": "675656817",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnDrop": ""
+  },
+  {
+  "name": "Scimitar",
+  "allyCode": "753686836",
+  "userIcon": ":flag_de:",
+  "tagIdOnDrop": "298444647842185216"
+  },
+  {
+  "name": "Kyoraku < Lux >",
+  "allyCode": "313528617",
+  "userIcon": ":flag_fr:",
+  "tagIdOnDrop": "231165428616003587"
+  },
+  {
+  "name": "Dark Helmet",
+  "allyCode": "841745192",
+  "userIcon": ":flag_us:",
+  "tagIdOnDrop": "375266445971554316"
+  },
+  {
+  "name": "Revan",
+  "allyCode": "774328729",
+  "userIcon": ":flag_tr:",
+  "tagIdOnDrop": "380723891787661322"
+  },
+  {
+  "name": "Neubula",
+  "allyCode": "989199677",
+  "userIcon": ":flag_ru:",
+  "tagIdOnDrop": "393452618820747265"
+  },  
+  {
+  "name": "kleinchaos",
+  "allyCode": "976365865",
+  "userIcon": ":flag_de:",
+  "tagIdOnDrop": "500037879880482816"
+  },
+  {
+  "name": "sicario",
+  "allyCode": "323315135",
+  "userIcon": ":flag_au:",
+  "tagIdOnDrop": "344797649318182913"
+  }, 
+  {
+  "name": "Khedronicus",
+  "allyCode": "754158434",
+  "discordId": ""
+  },
+  {
+  "name": "Sinava",
+  "allyCode": "699976758",
+  "userIcon": ":flag_ru:",
+  "tagIdOnDrop": "796827507382812753"
+  },
+  {
+  "name": "9s Khandog",
+  "allyCode": "711342325",
+  "discordId": ""
+  },
+  {
+  "name": "Weston",
+  "allyCode": "932126326",
+  "discordId": ""
+  },
+  {
+  "name": "Matt Bremer",
+  "allyCode": "548995643",
+  "userIcon": ":skull_crossbones:",
+  "discordId": ""
+  },
+  {
+  "name": "Arma Geddon",
+  "allyCode": "391296662",
+  "discordId": ""
+  },
+  {
+  "name": "Hayden",
+  "allyCode": "973317446",
+  "discordId": ""
+  },
+  {
+  "name": "Bail Writte",
+  "allyCode": "347137698",
+  "userIcon": ":flag_ru:",
+  "tagIdOnDrop": ""
+  },
+  {
+  "name": "raulfisica",
+  "allyCode": "466642585",
+  "userIcon": ":flag_br:",
+  "tagIdOnDrop": "539628243062489098"
   }
   ]
