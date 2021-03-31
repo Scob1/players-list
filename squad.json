@@ -43,7 +43,7 @@
 	{
 		"name": "ARES",
 		"allyCode": "359752355",
-		"userIcon": "",
+		"userIcon": ":skull_crossbones:",
 		"tagIdOnDrop": ""
 	},
 	{
@@ -276,5 +276,23 @@
 		"allyCode": "738935163",
 		"userIcon": ":flag_de:",
 		"tagIdOnDrop": "370939789656195084"
+	},
+	{
+		"name": "Maji",
+		"allyCode": "924613877",
+		"userIcon": "",
+		"tagIdOnDrop": ""
+	},
+	{
+		"name": "Danielson",
+		"allyCode": "635836449",
+		"userIcon": "",
+		"tagIdOnDrop": ""
+	},
+ 	{
+		"name": "Tmel65",
+		"allyCode": "971375216",
+		"userIcon": "",
+		"tagIdOnDrop": ""
 	}
 ]
