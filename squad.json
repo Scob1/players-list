@@ -41,16 +41,16 @@
 		"tagIdOnDrop": "531525942636576800"
 	},
 	{
-		"name": "ARES",
+		"name": "monkish",
 		"allyCode": "359752355",
-		"userIcon": ":skull_crossbones:",
-		"tagIdOnDrop": ""
+		"userIcon": "",
+		"tagIdOnDrop": "812396150916644915"
 	},
 	{
-		"name": "Darth Bean",
+		"name": "xeui",
 		"allyCode": "686663312",
 		"userIcon": ":flag_es:",
-		"tagIdOnDrop": "452983751119601666"
+		"tagIdOnDrop": "378581804023545856"
 	},
 	{
 		"name": "GODSOMEN",
@@ -300,5 +300,11 @@
 		"allyCode": "231276112",
 		"userIcon": "",
 		"tagIdOnDrop": ""
+	},
+	{
+		"name": "Rath Sheotah",
+		"allyCode": "483365875",
+		"userIcon": ":flag_gb:",
+		"tagIdOnDrop": "391630454039773185"
 	}
 ]
